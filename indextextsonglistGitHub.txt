@@ -29,4 +29,7 @@ Leyla
 adding 2 more for 22 from local repo
 henderson
 viera
+adding 2 more for 24 from local repo PATCH3
+Sam
+Mary
 
